@@ -1,0 +1,5 @@
+NguyenVanA 0912345678 2 3 PhimA Phong1 Xuat1
+TranThiB 0987654321 1 2 PhimB Phong2 Xuat2
+LeVanC 0901234567 4 1 PhimA Phong1 Xuat3
+PhamThiD 0923456789 0 5 PhimC Phong3 Xuat1
+HoangVanE 0934567890 3 0 PhimB Phong2 Xuat2
